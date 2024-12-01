@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="EventCalendar/App.axaml" value="EventCalendar/EventCalendar.csproj" />
+        <entry key="EventCalendar/MainWindow.axaml" value="EventCalendar/EventCalendar.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
